@@ -5,31 +5,18 @@
 
 ## Contents
 
-  - [C](#c)
   - [Go](#go)
-  - [HCL](#hcl)
   - [HTML](#html)
   - [JavaScript](#javascript)
-  - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
   - [QML](#qml)
-  - [Ruby](#ruby)
   - [Shell](#shell)
   - [TypeScript](#typescript)
-
-## C 
-
-- [mgdm/Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Eclipse Mosquitto™ MQTT client library for PHP.
 
 ## Go 
 
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-
-## HCL 
-
-- [LinkedInLearning/advanced-terraform-2823489](https://github.com/LinkedInLearning/advanced-terraform-2823489) - Advanced Terraform
-- [wardviaene/terraform-course](https://github.com/wardviaene/terraform-course) - Course files for my Udemy course about Terraform
 
 ## HTML 
 
@@ -40,43 +27,25 @@
 - [ericmann/speed-logger](https://github.com/ericmann/speed-logger) - Log network speed to a CSV routinely.
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [MausamGaurav/DockerDjangoReactProject](https://github.com/MausamGaurav/DockerDjangoReactProject) - Docker Guide - Build a fully production ready machine learning app with React, Django, and PostgreSQL on Docker
-
-## Others 
-
-- [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
-- [ishtiyaq/python-gunicorn-server-setup](https://github.com/ishtiyaq/python-gunicorn-server-setup) - 
-- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 
 ## PHP 
 
-- [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-- [ACloudGuru-Resources/Course_Introduction_to_Ansible](https://github.com/ACloudGuru-Resources/Course_Introduction_to_Ansible) - Learn how to setup, develop, and utilize ansible automation.
-- [katzgrau/KLogger](https://github.com/katzgrau/KLogger) - A Simple Logging Class For PHP
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 
 ## Python 
 
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 
 ## QML 
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
-## Ruby 
-
-- [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
-
 ## Shell 
 
 - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster.
-- [dszidi/knoxbug-dzen](https://github.com/dszidi/knoxbug-dzen) - Dzen presentation files for knoxbug
-- [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
-- [sandervanvugt/bash-scripting](https://github.com/sandervanvugt/bash-scripting) - files for my bash-scripting course on Safari Live
-- [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
-- [g0t4/docker-swarm-mode-getting-started](https://github.com/g0t4/docker-swarm-mode-getting-started) - Repository for my Pluralsight course Getting Started with Docker Swarm Mode
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
-- [openhab/openhabian](https://github.com/openhab/openhabian) - openHABian - empowering the smart home, for Raspberry Pi and Debian systems
 
 ## TypeScript 
 
